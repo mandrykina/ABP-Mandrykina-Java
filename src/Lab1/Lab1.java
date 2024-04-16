@@ -68,7 +68,7 @@ public class Lab1 {
 
     // Task 4
     public void calculateArraySum() {
-        double[] array = {2, 2.7, 4};
+        double[] array = { 2, 2.7, 4 };
         double sum = Arrays.stream(array).sum();
 
         System.out.println("Сума елементів масиву: " + sum);
