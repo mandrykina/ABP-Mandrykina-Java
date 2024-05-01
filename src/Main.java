@@ -8,12 +8,14 @@ import Lab3.Pickup;
 import Lab4.Lab4;
 import Lab5.Lab5;
 import Lab6.Lab6;
+import Lab7.PopulationApp;
+import Lab8.TriangleDrawer;
 
 public class Main {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
-        System.out.println("Введіть номер лабораторної роботи (1-6):");
+        System.out.println("Введіть номер лабораторної роботи (1-8):");
         int labNumber = scanner.nextInt();
 
         switch (labNumber) {
@@ -34,6 +36,12 @@ public class Main {
                 break;
             case 6:
                 runLab6();
+                break;
+            case 7:
+                runLab7();
+                break;
+            case 8:
+                runLab8();
                 break;
             default:
                 System.out.println("Невірний номер лабораторної роботи.");
@@ -74,5 +82,14 @@ public class Main {
     public static void runLab6() {
         Lab6 triangleDrawing = new Lab6();
         triangleDrawing.setVisible(true);
+    }
+
+    public static void runLab7() {
+        new PopulationApp();
+    }
+
+    public static void runLab8() {
+        TriangleDrawer triangleDrawer = new TriangleDrawer();
+        triangleDrawer.setVisible(true);
     }
 }
