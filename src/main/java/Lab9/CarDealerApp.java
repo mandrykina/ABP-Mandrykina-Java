@@ -1,4 +1,4 @@
-package main.java.Lab9;
+package Lab9;
 
 import javax.swing.*;
 import javax.swing.table.DefaultTableModel;

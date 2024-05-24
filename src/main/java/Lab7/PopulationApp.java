@@ -1,4 +1,4 @@
-package main.java.Lab7;
+package Lab7;
 
 import javax.swing.*;
 import java.awt.*;

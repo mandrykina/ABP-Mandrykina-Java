@@ -1,4 +1,4 @@
-package main.java.Lab10;
+package Lab10;
 
 import java.io.*;
 import javax.swing.JOptionPane;

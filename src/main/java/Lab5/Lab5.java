@@ -1,4 +1,4 @@
-package main.java.Lab5;
+package Lab5;
 
 import javax.swing.*;
 import javax.swing.border.EmptyBorder;

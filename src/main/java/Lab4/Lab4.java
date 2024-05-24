@@ -1,4 +1,4 @@
-package main.java.Lab4;
+package Lab4;
 
 import javax.swing.JFrame;
 

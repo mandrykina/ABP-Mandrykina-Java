@@ -1,4 +1,4 @@
-package main.java.Lab2;
+package Lab2;
 
 public class Triangle {
     private final double sideA;

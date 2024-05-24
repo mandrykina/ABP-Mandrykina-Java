@@ -1,4 +1,4 @@
-package main.java.Lab3;
+package Lab3;
 
 interface Run {
   String getName();

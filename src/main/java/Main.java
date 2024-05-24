@@ -1,19 +1,17 @@
-package main.java;
+import Lab1.Lab1;
+import Lab10.QuadraticEquationSolver;
+import Lab2.Triangle;
+import Lab3.Convertible;
+import Lab3.Lab3;
+import Lab3.Pickup;
+import Lab4.Lab4;
+import Lab5.Lab5;
+import Lab6.Lab6;
+import Lab7.PopulationApp;
+import Lab8.TriangleDrawer;
+import Lab9.CarDealerApp;
 
 import java.util.Scanner;
-
-import main.java.Lab1.Lab1;
-import main.java.Lab10.QuadraticEquationSolver;
-import main.java.Lab2.Triangle;
-import main.java.Lab3.Convertible;
-import main.java.Lab3.Lab3;
-import main.java.Lab3.Pickup;
-import main.java.Lab4.Lab4;
-import main.java.Lab5.Lab5;
-import main.java.Lab6.Lab6;
-import main.java.Lab7.PopulationApp;
-import main.java.Lab8.TriangleDrawer;
-import main.java.Lab9.CarDealerApp;
 
 public class Main {
     public static void main(String[] args) {
